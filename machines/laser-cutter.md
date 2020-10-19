@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-10-19T18:35:04.477Z
+date: 2020-10-19T18:58:50.310Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -39,7 +39,11 @@ If it seems confusing right now, that's alright it should make a lot more sense 
 
 ![design_screen_overview-camera_view.png](/laser_cutter/design_screen_overview-camera_view.png)
 
-The highlighted area is the camera view. It displays what the camera at the top of the laser cutter sees inside the machine. In this case there is nothing, but anything you put inside should appear on this screen after closing the lid.
+The highlighted area is the camera view. It displays what the camera at the top of the laser cutter sees inside the machine. In this case there is nothing, but anything you put inside the machine should appear on this screen after closing the lid.
 
-You will notices that it says that the laser cutter is offline in the top right. It can be turned on with a switch in the back next to the power cable.
-[[insert picture]]
+The blue plus button on the top middle of the screen is how you add new designs. When you click on it you should see something like this. 
+
+![add_design_button_prompt.png](/laser_cutter/add_design_button_prompt.png){.align-center}
+
+The most important button here is the upload button on the top right of this dialog. It allows you to upload any design you've made or any pictures you've found online. If you're wondering what kind of files you can upload, click [[here]]. While it's possible to upload just about any picture or design you can find, not all of them will print well. Click [[here]] for some basic guidelines on how to identify an easily printable file. 
+
