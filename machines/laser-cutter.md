@@ -2,9 +2,9 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-10-01T18:56:50.751Z
-tags: 
-editor: undefined
+date: 2020-10-19T18:35:04.477Z
+tags: fabrication, guide
+editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
 ---
 
@@ -16,11 +16,6 @@ The laser cutter uses a laser to  into flat surfaces of soft materials like wood
 ## Overview
 [[insert top down view picture]]
 This is a top-down view of the laser cutter.
-## The Process
-
-1. [Creating a design](https://sdsmakerspace.dacaseo.me/en/machines/laser-cutter#creating-a-design)
-2. [Uploading and placing a design](https://sdsmakerspace.dacaseo.me/en/machines/laser-cutter#uploading-a-design)
-3. [Cutting a design](https://sdsmakerspace.dacaseo.me/en/machines/laser-cutter#cutting-a-design)
 
 ## Creating a Design
 Designs for the laser cutter come in a number of forms but the most common (and accurate!) is an SVG or Scalable Vector Graphics file. These end in `.svg` and can be found online or created with compatible programs such as [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) or [Inkscape](https://inkscape.org/). This guide won't cover how to use these programs but you can find an endless amount of tutorials online or ask someone who does know. 
