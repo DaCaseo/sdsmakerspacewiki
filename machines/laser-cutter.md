@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-10-19T18:58:50.310Z
+date: 2020-12-04T19:36:57.097Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -20,7 +20,7 @@ This is a top-down view of the laser cutter.
 ## Creating a Design
 Designs for the laser cutter come in a number of forms but the most common (and accurate!) is an SVG or Scalable Vector Graphics file. These end in `.svg` and can be found online or created with compatible programs such as [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) or [Inkscape](https://inkscape.org/). This guide won't cover how to use these programs but you can find an endless amount of tutorials online or ask someone who does know. 
 ## Uploading and placing a Design
-> In order to use the laser cutter you will need a [Glowforge account](https://app.glowforge.com/). If you don't have an account contact [Case](mailto://case.norris@sdsgriffin.org) to get set up.
+> In order to use the laser cutter you will need a [Glowforge account](https://app.glowforge.com/). If you don't have an account [contact Case](mailto://case.norris@sdsgriffin.org) to get set up.
 {.is-info}
 
 Once you are logged into glowforge you should see a screen like this:
