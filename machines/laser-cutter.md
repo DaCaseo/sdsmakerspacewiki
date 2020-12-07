@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-12-07T16:37:56.459Z
+date: 2020-12-07T20:24:56.990Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -10,18 +10,23 @@ dateCreated: 2020-03-13T15:57:43.084Z
 
 > This page is a work in progress. Information may be missing or incomplete.
 {.is-warning}
+
 # Laser Cutter
-The laser cutter uses a laser to  into flat surfaces of soft materials like wood, acrylic, and leather. SVG designs can be uploaded to it to control what it cuts. It can also etch and score material.
+
+[comment]: # (this is a comment which will not be rendered into the final document)
+The laser cutter uses a laser to  into flat surfaces of soft materials like wood, acrylic, and leather. Designs can be uploaded to it to control what it cuts. It can also engrave and score material.
 
 ## Overview
-[[insert top down view picture]]
 This is a top-down view of the laser cutter.
 
-[comment]: # (this should be a diagram labelling what each part of the machine is like power button, laser head, etc.)
+![glowforge_diagram.png](/laser_cutter/glowforge_diagram.png)
+
+The laser is produced in the laser tube and then reflected with mirrors to the laser head. The laser head's position is controlled by motors on either side allowing it to cut anywhere on the bed. Smoke is exhausted out the vent with fans inside the machine which is where a majority of the noise comes from during use.
+
 ## Creating a Design
 Designs for the laser cutter come in a number of forms but the most common (and accurate!) is an SVG or Scalable Vector Graphics file. These end in `.svg` and can be found online or created with compatible programs such as [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) or [Inkscape](https://inkscape.org/). This guide won't cover how to use these programs but you can find an endless amount of tutorials online or ask someone who does know. 
 ## Uploading and placing a Design
-> In order to use the laser cutter you will need a [Glowforge account](https://app.glowforge.com/). If you don't have an account [contact Case](mailto://case.norris@sdsgriffin.org) to get set up.
+> In order to use the laser cutter you will need a [Glowforge account](https://app.glowforge.com/). If you don't have an account [contact Case](mailto://case.norris@sdsgriffin.org) to get one set up.
 {.is-info}
 
 Once you are logged into glowforge you should see a screen like this:
