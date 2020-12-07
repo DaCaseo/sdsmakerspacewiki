@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-12-04T19:36:57.097Z
+date: 2020-12-07T16:17:34.765Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -33,6 +33,7 @@ This is the home screen. It has all of the designs you have uploaded in the past
 ![create_new_design_prompt.png](/laser_cutter/create_new_design_prompt.png)
 
 You can upload new designs at any time from within their menu so don't worry too much about which one to choose right now. If you don't already have a design downloaded, just click *New blank design*. You should be greeted with this screen.
+
 ![design_screen_overview.png](/laser_cutter/design_screen_overview.png)
 
 If it seems confusing right now, that's alright it should make a lot more sense in just a bit.
@@ -45,5 +46,12 @@ The blue plus button on the top middle of the screen is how you add new designs.
 
 ![add_design_button_prompt.png](/laser_cutter/add_design_button_prompt.png){.align-center}
 
-The most important button here is the upload button on the top right of this dialog. It allows you to upload any design you've made or any pictures you've found online. If you're wondering what kind of files you can upload, click [[here]]. While it's possible to upload just about any picture or design you can find, not all of them will print well. Click [[here]] for some basic guidelines on how to identify an easily printable file. 
+The most important button here is the upload button on the top right of this dialog. It allows you to upload any design you've made or any pictures you've found online. If you're wondering what kind of files you can upload, click [here](https://glowforge.com/faq/design#which-design-platforms-does-glowforge-work-with). While it's possible to upload just about any picture or design you can find, note that not all of them will print well or give you the result you might want. Files that "print well" typically have clear outlines and not many filled in areas. You can find a guide on identifying easily printable files online [here](/en/refrences/printable-files).
 
+After uploading or placing a design it will appear inside the editor. You can drag the design around to control where it will be cut and control the size of it by dragging one of the corners.
+
+[[picture of editor with design inside]]
+
+On the left side of the screen is is a list of all designs (or parts of single designs) you have uploaded.
+
+![left_side.png](/laser_cutter/left_side.png)
