@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-12-07T20:24:56.990Z
+date: 2020-12-07T21:15:18.423Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -66,6 +66,8 @@ Designs can be cut, engraved, scored, or ignored:
 2. Engraving will burn a shallow imprint of the design into the material. This can be used to cut out pictures or any other solidly filled design. This does not require a path. [[picture of something that was engraved]]
 3. Scoring will burn deeper into the material than engraving. This is good for text and things that are supposed to be more defined than an engraving will give you. This requires a path. [[picture of somehthing that was scored]]
 4. Ignoring a design will prevent from being it cut at all. This is useful for for taking certain objects out of a design when testing. This can be done to any design.
+
+![cut_options.png](/laser_cutter/cut_options.png){.align-center .radius-5}
 
 These settings can be controlled by clicking on your design on the left panel and selecting one of these options at the top of the dialog. 
 
