@@ -2,7 +2,7 @@
 title: Laser Cutter
 description: A guide on how to use the laser cutter.
 published: true
-date: 2020-12-07T21:15:18.423Z
+date: 2020-12-09T15:36:26.376Z
 tags: fabrication, guide
 editor: markdown
 dateCreated: 2020-03-13T15:57:43.084Z
@@ -24,7 +24,7 @@ This is a top-down view of the laser cutter.
 The laser is produced in the laser tube and then reflected with mirrors to the laser head. The laser head's position is controlled by motors on either side allowing it to cut anywhere on the bed. Smoke is exhausted out the vent with fans inside the machine which is where a majority of the noise comes from during use.
 
 ## Creating a Design
-Designs for the laser cutter come in a number of forms but the most common (and accurate!) is an SVG or Scalable Vector Graphics file. These end in `.svg` and can be found online or created with compatible programs such as [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) or [Inkscape](https://inkscape.org/). This guide won't cover how to use these programs but you can find an endless amount of tutorials online or ask someone who does know. 
+Designs for the laser cutter come in a number of forms but the most common (and accurate!) is an SVG or Scalable Vector Graphics file. These end in `.svg` and can be found online or created with compatible programs such as [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) or [Inkscape](https://inkscape.org/). This guide won't cover how to use these programs but you can find tutorials online or ask someone who does know. 
 ## Uploading and placing a Design
 > In order to use the laser cutter you will need a [Glowforge account](https://app.glowforge.com/). If you don't have an account [contact Case](mailto://case.norris@sdsgriffin.org) to get one set up.
 {.is-info}
